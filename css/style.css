@@ -233,6 +233,7 @@ hr {
     border: 1px solid #eaebec;
     padding: 0.635rem 0;
     text-align: center;
+    cursor: pointer;
 }
 
 .social .copy {
@@ -251,6 +252,10 @@ hr {
 
 .social .instagram {
     color: #3f729b;
+}
+
+.social .refresh {
+    color: darkblue;
 }
 
 
